@@ -1,0 +1,17 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# Environment
+mlenv/
+venv/
+.conda/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Optional: If you want to keep your target list private
+# targets.txt
