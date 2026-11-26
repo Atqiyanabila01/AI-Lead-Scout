@@ -1,3 +1,4 @@
+
 aiofiles==25.1.0
 aiohappyeyeballs==2.6.1
 aiohttp==3.13.3
@@ -42,7 +43,7 @@ idna==3.11
 importlib_metadata==8.7.1
 Jinja2==3.1.6
 jiter==0.13.0
-joblib @ file:///C:/Users/task_176786740206630/croot/joblib_1767868144069/work
+joblib
 jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
 lark==1.3.1
@@ -51,16 +52,14 @@ lxml==5.4.0
 markdown-it-py==4.0.0
 MarkupSafe==3.0.3
 mdurl==0.1.2
-mkl-service==2.5.2
-mkl_fft @ file:///C:/miniconda3/conda-bld/mkl_fft_1761592917950/work
-mkl_random @ file:///C:/miniconda3/conda-bld/mkl_random_1761593166070/work
+mkl-service
 multidict==6.7.1
 networkx==3.6.1
 nltk==3.9.3
-numpy @ file:///C:/Users/task_177073259650431/croot/numpy_and_numpy_base_1770732703057/work/dist/numpy-2.4.2-cp312-cp312-win_amd64.whl#sha256=695446e7c6dcc91b4f9b187a8af23d4024c9bd8d6a7398d7e5dc9f70c9d701d3
+numpy==2.4.2
 openai==2.24.0
 openpyxl==3.1.5
-packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049137378/work
+packaging
 pandas==3.0.1
 patchright==1.58.0
 pillow==12.1.1
@@ -83,8 +82,8 @@ requests==2.32.5
 rich==14.3.3
 rpds-py==0.30.0
 rtree==1.4.1
-scikit-learn @ file:///C:/Users/task_176609793502335/croot/scikit-learn_1766098046805/work
-scipy @ file:///C:/Users/task_177149181236020/croot/scipy_1771491950002/work/dist/scipy-1.17.0-cp312-cp312-win_amd64.whl#sha256=31362c4ac003632a0ff14a8a2bf4baf3eae7c0398fd87d9e17ee229c59586a7a
+scikit-learn
+scipy==1.17.0
 setuptools==80.10.2
 shapely==2.1.2
 shellingham==1.5.4
@@ -93,12 +92,12 @@ sniffio==1.3.1
 snowballstemmer==2.2.0
 soupsieve==2.8.3
 tf-playwright-stealth==1.2.0
-threadpoolctl @ file:///C:/miniconda3/conda-bld/threadpoolctl_1764361791480/work
+threadpoolctl
 tiktoken==0.12.0
 tokenizers==0.22.2
 tqdm==4.67.3
 trimesh==4.11.2
-typer==0.24.1
+typer==0.24.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 tzdata==2025.3
